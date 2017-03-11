@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": ["/usr/include"],
+            "browse" : {
+                "limitSymbolsToIncludedHeaders" : true,
+                "databaseFilename" : ""
+            }
+        },
+        {
+            "name": "Linux",
+            "includePath": ["/usr/include"],
+            "browse" : {
+                "limitSymbolsToIncludedHeaders" : true,
+                "databaseFilename" : ""
+            }
+        },
+        {
+            "name": "Win32",
+            "includePath": ["D:\\MinGW64\\include","D:\\MinGW64\\x86_64-w64-minggw32","D:\\MinGW64\\x86_64-w64-minggw32",
+            "D:\\MinGW64\\x86_64-w64-minggw32\\4.8.1","D:\\MinGW64\\x86_64-w64-minggw32\\4.8.1\\c++"],
+            "browse" : {
+                "limitSymbolsToIn   cludedHeaders" : true,
+                "databaseFilename" : ""
+            }
+        }
+    ]
+}
